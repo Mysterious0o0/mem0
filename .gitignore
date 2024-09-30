@@ -185,3 +185,8 @@ eval/
 qdrant_storage/
 .crossnote
 testing.ipynb
+cache/
+*.txt
+*_test.py
+*-eng.py
+*-zh.py
